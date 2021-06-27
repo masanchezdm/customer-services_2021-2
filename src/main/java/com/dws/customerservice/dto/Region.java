@@ -29,5 +29,3 @@ public class Region {
 		this.region = region;
 	}
 	
-
-}
